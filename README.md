@@ -1,5 +1,5 @@
 # 📦 Predicting Delivery Delays with Machine Learning
-
+![Predicting Delivery Delays with Machine Learning](docs/pic1.jpg)
 Predicting e-commerce delivery delays using the **Olist Brazilian E-Commerce dataset**, with a focus on identifying logistics bottlenecks and helping operations teams intervene *before* an order goes late — not just measuring accuracy after the fact.
 
 > **Main goal:** flag the riskiest orders early so operations can act.
