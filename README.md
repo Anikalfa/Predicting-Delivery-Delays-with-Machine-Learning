@@ -152,3 +152,5 @@ Risk bands are assigned by percentile of predicted probability: **Critical** (to
 ## 📁 Data
 
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)
+[predicting-delivery-delays-with-machine-learning Notebook](https://www.kaggle.com/code/anikalfa/predicting-delivery-delays-with-machine-learning) (Kaggle)
+    
